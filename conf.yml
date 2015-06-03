@@ -1,0 +1,5 @@
+consumer_key: "your consumer key"
+consumer_secret: "your secret key"
+team: "your team name"
+repository: "youre repository name"
+incoming_webhook_url: "your webhook url"
