@@ -4,6 +4,8 @@
 
 Bitbucketより一週間以内にresolvedとされたissueを取得し、Slackに投稿するBOTです。
 
+![shinchoku](http://cdn-ak.f.st-hatena.com/images/fotolife/n/nosoosso/20150613/20150613003945.png)
+
 ### 設定
 
 conf.ymlに必要な情報を記述します。全て必須項目です。
